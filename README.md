@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Link
+
+[https://cristianschutz-marvelecommerce.netlify.app](https://cristianschutz-marvelecommerce.netlify.app)
 
 ## Requisitos de negócio
 
