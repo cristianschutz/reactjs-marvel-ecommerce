@@ -1,7 +1,3 @@
-## Link
-
-[https://cristianschutz-marvelecommerce.netlify.app](https://cristianschutz-marvelecommerce.netlify.app)
-
 ## Requisitos de negócio
 
 O MVP será uma landing ecommerce page com os quadrinhos da Mavel, uma aba para listar todos os quatrinhos (Menu Todos), e outras para listar alguns quadrinhos em destaque (Menu: Avengers, Thor, Iron Man, Captain America). A lista será composta pela foto do produto, titulo, edição, preço e botão de compra, ao clicar no botão abrira um modal integrado com o paypal para realizar o pagamento.
